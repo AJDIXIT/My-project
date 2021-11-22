@@ -1,2 +1,2 @@
 # My-project
-I am a certified web designer and have a skillfully manner for designing frontend
+I am a certified web designer and have a skillfull manner for designing frontend
